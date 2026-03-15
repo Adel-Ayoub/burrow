@@ -2,12 +2,7 @@
     .fingerprint = 0x7f8b27931395f3d4,
     .name = .burrow,
     .version = "0.1.0",
-    .dependencies = .{
-        .burrow = .{
-            .url = "git+https://github.com/Adel-Ayoub/burrow/?ref=HEAD#c77d8c218d036b67994a52bc6fdd2249898f044a",
-            .hash = "burrow-0.1.0-1POVEzkeAQBvdP0QKcDbYI9cbqPydRGbYYR1SVvk5rID",
-        },
-    },
+    .dependencies = .{},
     .minimum_zig_version = "0.14.0",
     .paths = .{
         "build.zig",
